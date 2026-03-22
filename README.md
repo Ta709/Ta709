@@ -9,8 +9,8 @@ I'm a 9th-grade developer obsessed with the **mechanical "nervous system"** of s
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Python, JavaScript, C++, Shell, HTML/CSS
-- **Aerospace:** NASA GMAT, MATLAB/Octave
-- **Platforms:** GitHub Pages, Linux (Termux/Kali), Windows 10/11
+- **Aerospace:** NASA GMAT, NOS3, 42, COSMOS
+- **Platforms:** GitHub Pages, Linux (Kali, Tsuguri, Tails, Blackarch, etc.), Windows 10/11 pro
 
 ### 📈 GitHub Stats
 ![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ta709&show_icons=true&theme=transparent)
