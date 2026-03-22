@@ -1,6 +1,6 @@
 # Hi there, I'm Nathan! 👋
 
-I'm a 9th-grade developer obsessed with the **mechanical "nervous system"** of spacecraft. I don't just want to design the path; I want to build the instruments, gimbals, and robotic limbs that make exploration possible.
+I'm a student developer obsessed with the **mechanical "nervous system"** of spacecraft. I don't just want to design the path; I want to build the instruments, gimbals, and robotic limbs that make exploration possible.
 
 ### 🚀 What I'm working on
 - **Virtual GNC:** Simulating Earth-to-Jupiter gravity assists using **NASA's GMAT** (General Mission Analysis Tool).
