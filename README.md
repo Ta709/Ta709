@@ -10,6 +10,7 @@ I'm a student developer obsessed with the **mechanical "nervous system"** of spa
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Python, JavaScript, C++, Shell, HTML/CSS
 - **Aerospace:** NASA GMAT, NOS3, 42, COSMOS
+- **Community:** TraceLabs
 - **Platforms:** GitHub Pages, Linux (Kali, Tsuguri, Tails, Blackarch, etc.), Windows 10/11 pro
 
 ### 📈 GitHub Stats
