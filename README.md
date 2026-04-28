@@ -1,6 +1,6 @@
-# Hi there, I'm Nathan! 👋
+# Hi, I'm Nathan! 
 
-I'm a student developer obsessed with the **mechanical "nervous system"** of spacecraft. I don't just want to design the path; I want to build the instruments, gimbals, and robotic limbs that make exploration possible.
+I'm a student developer working interested in spacecrafts. I don't just want to design the path; I want to build the instruments, gimbals, and robotic limbs that make exploration possible.
 
 ### 🚀 What I'm working on
 - **Virtual GNC:** Simulating Earth-to-Jupiter gravity assists using **NASA's GMAT** (General Mission Analysis Tool).
@@ -15,6 +15,10 @@ I'm a student developer obsessed with the **mechanical "nervous system"** of spa
 
 ### 📈 GitHub Stats
 ![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ta709&show_icons=true&theme=transparent)
+
+### 📜 Certifications
+- **Blue Team Junior Analyst (BTJA) Pathway** | Security Blue Team (https://elearning.securityblue.team/home/certificate/244001413)
+- 
 ### 📫 How to reach me
 - **Portfolio:** https://github.com/Ta709
 - **Email:** benjaminpark273@gmail.com
