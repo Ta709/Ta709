@@ -28,6 +28,7 @@ I'm a student developer interested in spacecraft. I want to build the instrument
 ### 📜 Certifications
 *   **Blue Team Junior Analyst (BTJA) Pathway** | Security Blue Team ([Verify Certificate](Blue%20Team%20Junior%20Analyst%20Pathway%20Bundle-btja.pdf))
 *   **Workshop Investigating-Ransomware** | Sleuth Kit Labs ([Verify Certificate](Investigating_Ransomware_Sleuthkitlabs.pdf))
+*   **Maltego Cybercrime Investigation** | Maltego Academy ([Verify Certificate](certificate-maltego-for-cybercrime-investigations-6617f3367510767c2b001e5b.pdf))
 
 ### 📈 GitHub Stats
 ![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ta709&show_icons=true&theme=transparent)
