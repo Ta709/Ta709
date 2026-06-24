@@ -26,7 +26,7 @@ I'm a student developer interested in spacecraft. I want to build the instrument
 *   **Mathematical Pipeline:** AP Calculus BC $\rightarrow$ Honors Multivariable Calculus & Linear Algebra
 
 ### 📜 Certifications
-*   **Blue Team Junior Analyst (BTJA) Pathway** | Security Blue Team ([Verify Certificate](https://elearning.securityblue.team/home/certificate/244001413))
+*   **Blue Team Junior Analyst (BTJA) Pathway** | Security Blue Team ([Verify Certificate]([https://elearning.securityblue.team/home/certificate/244001413](https://github.com/Ta709/Ta709/blob/main/Blue%20Team%20Junior%20Analyst%20Pathway%20Bundle-btja.pdf)))
 
 ### 📈 GitHub Stats
 ![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ta709&show_icons=true&theme=transparent)
