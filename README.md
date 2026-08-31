@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" width="300" src="https://readme-typing-svg.demolab.com?font=FiraCode&weight=600&size=22&duration=3000&pause=1000&color=00897B&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=120&lines=Hi+there,+I'm+Nathan!;Building+the+instruments+that+explore+space.">
+<img align="right" width="300" src="https://readme-typing-svg.demolab.com?font=FiraCode&weight=600&size=22&duration=2000&pause=1000&color=00897B&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=120&lines=Hi+there,+I'm+Nathan!;Nice+to+meet+you!">
 
 I'm a student developer passionate about spacecraft instrumentation, guidance systems, and robotic mechanisms that enable deep-space exploration.
 
