@@ -26,7 +26,7 @@ Currently building tools at the intersection of **aerospace engineering**, **aut
 
 ## Education
 
-**AP Calculus BC** → **Honors Multivariable Calculus & Linear Algebra**
+**AP Calculus BC** → **Multivariable Calculus & Linear Algebra**
 
 ### Curriculum Optimization Case Study
 
@@ -75,12 +75,6 @@ Currently building tools at the intersection of **aerospace engineering**, **aut
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ta709&theme=tokyonight&border=46C2BC" width="700"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/Ta709" width="800"/>
 
 </div>
 
