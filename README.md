@@ -27,16 +27,6 @@ Currently building tools at the intersection of **aerospace engineering**, **aut
 ## Education
 
 **AP Calculus BC** → **Multivariable Calculus & Linear Algebra**
-
-### Curriculum Optimization Case Study
-
-| Metric | Result |
-|--------|--------|
-| **Problem** | 2-year LOTE time allocations blocking STEM placement tracks |
-| **Solution** | District policy directive (LAUSD BUL-2533.3) for accelerated proficiency validation |
-| **Outcome** | Resolved 10-credit graduation deficit via curriculum pipeline swap |
-| **Impact** | Cleared Area E requirements; enabled junior-year Honors Multivariable Calculus |
-
 ---
 
 ## Tech Stack
