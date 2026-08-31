@@ -80,31 +80,50 @@ Currently building tools at the intersection of **aerospace engineering**, **aut
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ta709&theme=redical&hide_border=true&area=true" width="800"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ta709&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" width="400"/>
+<img src="https://ghchart.rshah.org/Ta709" width="800"/>
 
 </div>
 
 ---
 
-## Contribution Graph
+## Setup Snake Animation
 
+The snake animation below requires a GitHub Action to generate. Follow these steps:
+
+1. Create `.github/workflows/snake.yml` in your `Ta709/Ta709` repo with this content:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Ta709
+          outputs: dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Push to `main`, then go to **Actions** tab and run the workflow manually
+3. Once the action completes, uncomment the image below and delete this setup section
+
+<!--
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Ta709/Ta709/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Ta709/Ta709/output/github-snake-dark.svg)
 
 </div>
-
-<!-- 
-  To generate the snake animation above, add this GitHub Action to your repo:
-  .github/workflows/snake.yml
-  
-  See: https://github.com/Platane/snk
 -->
 
 ---
