@@ -1,4 +1,4 @@
-# Nathan Park
+# Nathan Joo
 
 ### Student Developer | Aerospace Enthusiast | Systems Engineer
 
