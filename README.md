@@ -19,7 +19,7 @@ Currently building tools at the intersection of **aerospace engineering**, **aut
 | **phys-core** | Lightweight JS engine for randomized AP Physics & Calculus problem generation with LaTeX step-by-step solutions. | [Live Demo](https://ta709.github.io/phys-core/) |
 | **Electrodynamic Space Tether (TSS-1R)** | Modeling GSL tape ribbon configurations for plasma arcing prevention. Applying Faraday's Law across LEO velocity vectors — projecting 75 kW electromagnetic harvest. | — |
 | **Virtual GNC** | Simulating Earth-to-Jupiter gravity assists using NASA GMAT for trajectory optimization. | — |
-| **Delta-V Optimizer** | MATLAB/Octave scripts for deep-space fuel consumption optimization. | — |
+| **GMAT Scripting** | Portfolio of my journey of learning GMAT scripting | [Repository](https://github.com/Ta709/GMAT-Mission-Portfolio) |
 | **Community Web Tools** | Bible Reading Tracker and specialized web consoles for community use. | — |
 
 ---
